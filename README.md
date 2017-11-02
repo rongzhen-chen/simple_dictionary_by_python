@@ -11,6 +11,7 @@ input a word: rain
 Precipitation in the form of liquid water drops with diameters greater than 0.5 millimetres. To fall from the clouds in drops of water.
  
 example 2:
+
 input a word: riann
 
 can you find the word from ['inn', 'radian', 'granny']? enter 'Y or y', otherwise press any key to return: y
