@@ -1,6 +1,8 @@
 import json
 from difflib import get_close_matches
-import sys
+'''
+a simple English dictionary by python3
+'''
 
 def loadData():
     ''' load the data'''
